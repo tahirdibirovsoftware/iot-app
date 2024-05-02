@@ -1,0 +1,20 @@
+@font-face {
+    font-family: digital;
+    src: url('./fonts/cursed-timer-ulil-font/CursedTimerUlil-Aznm.ttf');
+}
+
+.Display, .info{
+    width: 15rem;
+    height: 10rem;
+    background-color: rgb(0, 10, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 1rem;
+}
+
+.indicator{
+    font-family: digital;
+    font-size: 3rem;
+}

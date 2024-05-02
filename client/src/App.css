@@ -1,0 +1,23 @@
+
+
+
+.App{
+  width: 20rem;
+  height: 30rem;
+  background-color: rgb(200, 100, 10);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+  flex-direction: column;
+  gap: 1rem;
+  box-shadow: 20px 0px 15px black;
+  user-select: none;
+}
+
+.logo{
+  width: 15rem;
+  padding: 1rem;
+  background-color: rgb(200, 200, 200);
+  border-radius: 5px;
+}
